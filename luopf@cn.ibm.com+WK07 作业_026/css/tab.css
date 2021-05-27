@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+main {
+    width: 700px;
+    margin: 0 auto;
+}
+
+li {
+    list-style: none;
+}
+
+.tabsbox {
+    width: 700px;
+    height: 400px;
+    border: 1px solid #ccc;
+}
+
+.firstnav {
+    width: 700px;
+    height: 50px;
+    line-height: 50px;
+}
+
+.firstnav ul {
+    text-align: center;
+}
+
+.firstnav ul li {
+    position: relative;
+    float: left;
+    width: 50px;
+    height: 50px;
+    padding: 0 10px;
+    border-right: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    list-style: none;
+}
+
+.tabadd {
+    float: right;
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    text-align: center;
+    line-height: 30px;
+    border: 1px solid #ccc;
+}
+
+.tabscon section {
+    margin-top: 100px;
+    height: 100px;
+    display: none;
+}
+
+.tabscon .conactive {
+    display: block;
+}
+
+.icon-guanbi {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 12px;
+    width: 12px;
+    font-size: 5px;
+    color: #fff;
+    border-radius: 0 0 0 10px;
+    background-color: #333;
+}
+
+.icon-guanbi::before {
+    content: "×";
+    position: absolute;
+    top: -20px;
+    right: 0px;
+}
+
+.firstnav .liactive {
+    border-bottom: none;
+}
