@@ -297,6 +297,7 @@ a {
 }
 .subContent .card {
   background: #fff;
+  margin-top: 50px;
 }
 .subContent .card img {
   width: 100%;
@@ -350,7 +351,7 @@ a {
 }
 .allTabs {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-evenly;
 }
 .allTabs .card {
   width: 200px;
@@ -387,4 +388,62 @@ a {
   top: 8px;
   color: #000;
   font-size: 12px;
+}
+.loading {
+  background-image: url('../img/icon/loading.gif');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: 0 0;
+  position: fixed;
+  display: none;
+  top: 42%;
+  width: 200px;
+  height: 100px;
+  left: 42%;
+}
+.needShow1,
+.needShow2,
+.needShow3 {
+  display: none;
+}
+.carousel {
+  display: flex;
+  height: 500px;
+  background: #f7f7f7;
+}
+.carousel .nav {
+  width: 95%;
+  height: 50px;
+  margin: 25px 0 0 40px;
+  display: flex;
+  justify-content: space-around;
+  border: 1px solid;
+}
+.nav input {
+  display: none;
+}
+.nav label {
+  width: 25%;
+  color: #000;
+  text-align: center;
+  line-height: 50px;
+  border: 1px solid #ccc;
+}
+.nav label:hover {
+  cursor: pointer;
+}
+.nav :checked + label {
+  background: #e9a44e;
+  color: #fff;
+}
+.carousel .right {
+  display: flex;
+  justify-content: space-evenly;
+}
+.carousel .right .card {
+  width: 250px;
+  height: 200px;
+}
+.carousel .right .card img {
+  width: 100%;
 }
