@@ -1,0 +1,57 @@
+[
+  {
+    "id": "p-1",
+    "shopIds": ["s-1","s-1","s-1"],
+    "shop": "东来顺",
+    "tag": "免预约",
+    "picture": "https://p0.meituan.net/200.0/deal/3461a2033998ea49f4964887b7d353da97612.jpg@221_0_637_637a%7C267h_267w_2e_90Q",
+    "product": "4-5人套餐，节假日通用",
+    "currentPrice": 19.9,
+    "oldPrice": 48,
+    "saleDesc": "已售6034"
+  },
+  {
+    "id": "p-2",
+    "shopIds": ["s-2"],
+    "shop": "故宫博物院",
+    "tag": "免预约",
+    "picture": "https://p1.meituan.net/200.0/auditimage/7891ae8977af10c05854bb0907886d143886032.jpg",
+    "product": "故宫博物院上午场成人票",
+    "currentPrice": 29,
+    "oldPrice": 41,
+    "saleDesc": "已售15500"
+  },
+  {
+    "id": "p-3",
+    "shopIds": ["s-3","s-3"],
+    "shop": "八达岭长城",
+    "tag": "免预约",
+    "picture": "https://p0.meituan.net/200.0/auditimage/5eac5a133693595a85e4a86821f5dfc1211315.jpg",
+    "product": "八达岭长城成人门票",
+    "currentPrice": 20,
+    "oldPrice": 25,
+    "saleDesc": "已售88719"
+  },
+  {
+    "id": "p-4",
+    "shopIds": ["s-4"],
+    "shop": "劳动人民文化宫",
+    "tag": "免预约",
+    "picture": "https://p0.meituan.net/200.0/auditimage/b50274d0d7c94dcb2f7ab5daac14d0f41697619.jpg",
+    "product": "劳动人民文化宫成人票",
+    "currentPrice": 14,
+    "oldPrice": 23.5,
+    "saleDesc": "已售53548"
+  },
+  {
+    "id": "p-5",
+    "shopIds": ["s-5"],
+    "shop": "黄记煌三汁焖锅",
+    "tag": "免预约",
+    "picture": "https://p0.meituan.net/200.0/deal/a527823771a31bafbede6a85ae21fbf754047.jpg@88_0_526_526a%7C267h_267w_2e_90Q",
+    "product": "四人焖锅套餐，包间免费",
+    "currentPrice": 17.5,
+    "oldPrice": 20,
+    "saleDesc": "已售23976"
+  }
+]

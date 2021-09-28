@@ -1,0 +1,19 @@
+{
+  "name": "luopf",
+  "version": "1.0.0",
+  "description": "WK07作业",
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "dev": "webpack-dev-server --open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "luopf@cn.ibm.com",
+  "license": "ISC",
+  "devDependencies": {
+    "html-webpack-inline-source-plugin": "0.0.10",
+    "html-webpack-plugin": "^3.2.0",
+    "webpack": "^4.0.0",
+    "webpack-cli": "^4.7.2"
+  }
+}

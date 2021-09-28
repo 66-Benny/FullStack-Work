@@ -1,0 +1,29 @@
+[
+  {
+    "id": "o-2",
+    "statusText": "已消费",
+    "orderPicUrl": "https://p0.meituan.net/200.0/deal/878f4e07f06a1a612947f482c90bf7591020822.jpg@504_0_3024_3024a%7C267h_267w_2e_90Q",
+    "channel": "团购",
+    "title": "净一心素食",
+    "text": ["1张 | 总价：￥11.99", "有效期至2018-09-17"],
+    "type": 1
+  },
+  {
+    "id": "o-3",
+    "statusText": "待付款",
+    "orderPicUrl": "https://p0.meituan.net/200.0/deal/4a8ca57c1e4be558bc3b22a66f59a65429963.jpg@126_0_388_388a%7C267h_267w_2e_100Q",
+    "channel": "团购",
+    "title": "元通寿司",
+    "text": ["2张 | 总价：￥76.00", "有效期至2018-09-02"],
+    "type": 2
+  },
+  {
+    "id": "o-4",
+    "statusText": "已消费",
+    "orderPicUrl": "https://p1.meituan.net/200.0/deal/6ed24464b167734cdc27002820df974072229.jpg@100_0_600_600a%7C267h_267w_2e_90Q",
+    "channel": "团购",
+    "title": "韩怡岛韩式烤肉·韩国料理",
+    "text": ["1张 | 总价：￥168.00", "有效期至2018-09-24"],
+    "type": 1
+  }
+]

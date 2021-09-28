@@ -1,0 +1,32 @@
+[
+  {
+    "id": "p-100",
+    "shopIds": ["s-100"],
+    "shop": "颐和园旺季成人",
+    "tag": "免预约",
+    "product": "颐和园旺季成人",
+    "currentPrice": 1,
+    "oldPrice": 400,
+    "picture": "http://p1.meituan.net/200.0/auditimage/94d6d558880036993a822c28a2086aae145376.jpg"
+  },
+  {
+    "id": "p-101",
+    "shopIds": ["s-101"],
+    "shop": "铁木真自助",
+    "tag": "免预约",
+    "product": "铁木真自助",
+    "currentPrice": 1,
+    "oldPrice": 2,
+    "picture": "http://p1.meituan.net/200.0/deal/45243c03ba50024edfd99372cc809c9a35494.jpg"
+  },
+  {
+    "id": "p-102",
+    "shopIds": ["s-102"],
+    "shop": "金语轩烤肉火锅自助餐",
+    "tag": "免预约",
+    "product": "金语轩烤肉火锅自助餐",
+    "currentPrice": 1,
+    "oldPrice": 349,
+    "picture": "http://p1.meituan.net/200.0/deal/8cc068eb02c7e3fcc77871aaa270a93226318.jpg"
+  }
+]

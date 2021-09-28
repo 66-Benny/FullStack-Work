@@ -1,0 +1,71 @@
+<form [formGroup]="profileForm" class="form-group">
+  <div class="row">
+    <div class="col-md-1 pull-left">
+      <label class="control-label">
+        姓名:
+      </label>
+    </div>
+    <div class="col-md-5">
+      <input
+        type="text"
+        formControlName="name"
+        required
+        class="form-control"
+        placeholder="请输入"
+      />
+      <div *ngIf="formErrors.name" class="showerr alert-danger">
+        {{ formErrors.name }}
+      </div>
+    </div>
+    <div class="col-md-1 pull-left">
+      <label>
+        性别:
+      </label>
+    </div>
+    <div class="col-md-5">
+      <select class="form-select" formControlName="gender">
+        <option value="男">男</option>
+        <option value="女">女</option>
+      </select>
+    </div>
+  </div>
+  <div class="row">
+    <div class="col-md-1 pull-left">
+      <label>
+        手机:
+      </label>
+    </div>
+    <div class="col-md-5">
+      <input
+        type="text"
+        class="form-control"
+        formControlName="phone"
+        placeholder="请输入"
+      />
+      <div *ngIf="formErrors.phone" class="showerr alert-danger">
+        {{ formErrors.phone }}
+      </div>
+    </div>
+    <div class="col-md-1 pull-left">
+      <label>
+        Email:
+      </label>
+    </div>
+    <div class="col-md-5">
+      <input
+        type="email"
+        formControlName="email"
+        required
+        class="form-control"
+        placeholder="请输入"
+      />
+
+      <div *ngIf="formErrors.email" class="showerr alert-danger">
+        {{ formErrors.email }}
+      </div>
+    </div>
+  </div>
+  <button type="submit" class="btn btn-primary" (click)="onValueChanged()">
+    提交
+  </button>
+</form>

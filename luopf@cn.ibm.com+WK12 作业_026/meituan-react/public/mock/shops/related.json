@@ -1,0 +1,52 @@
+[
+  {
+    "id": "s-1",
+    "pic": "https://p0.meituan.net/200.0/dpdeal/e499d036f67989a00412f4f89c2e45e21384508.jpg",
+    "shop": "东莞东城水立方游泳馆",
+    "star": 45,
+    "price": 28,
+    "commentQuantity": 20305,
+    "region": "樟村",
+    "category": "水立方单次成人恒温游泳水疗"
+  },
+  {
+    "id": "s-2",
+    "pic": "https://p0.meituan.net/100.0/deal/7c4daa4983e7f4984df7296057f3399a336890.jpg@120_0_400_400a%7C267h_267w_2e_100Q",
+    "shop": "紫来轩",
+    "star": 50,
+    "price": 24.9,
+    "quantity": 6715,
+    "region": "东莞等",
+    "category": "乐活低脂豆浆蛋糕1个，约1磅，方形"
+  },
+  {
+    "id": "s-3",
+    "pic": "https://p1.meituan.net/100.0/deal/3b16611106a02fd47056a56fc9ca41aa1033345.png@125_0_750_750a%7C267h_267w_2e_90Q",
+    "shop": "巧慕斯蛋糕店",
+    "star": 50,
+    "price": 128,
+    "quantity": 200,
+    "region": "28店通用",
+    "category": "蛋糕9选1,约5磅，圆形"
+  },
+  {
+    "id": "s-4",   
+    "pic": "https://p0.meituan.net/100.0/deal/bfb02a339813f380ed05df691a609c15372388.jpg@267h_267w_2e_90Q",
+    "shop": "7点蛋糕工坊",
+    "star": 50,
+    "price": 128,
+    "quantity": 4025,
+    "region": "7店通用",
+    "category": "蛋糕5选1,约6英寸，圆形"
+  },
+  {
+    "id": "s-5",
+    "pic": "https://p1.meituan.net/100.0/deal/74e45cd53b2f33937c3d058d325354d114273.jpg@95_0_250_250a%7C267h_267w_2e_100Q",
+    "shop": "麦当劳",
+    "star": 50,
+    "price": 33.5,
+    "quantity": 6715,
+    "region": "6店通用",
+    "category": "原味板烧套餐，建议1-2人使用"
+  }
+]
